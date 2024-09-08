@@ -1,7 +1,6 @@
-vless://16dcc4a9-3e6b-4b1d-a0d8-4a182ff49786@hk1.wlcf.lol:443?encryption=none&security=tls&sni=kk2.wlcf.lol&fp=randomized&type=ws&host=kk2.wlcf.lol&path=%2F%3Fed%3D2048#%E9%A6%99%E6%B8%AF
-vless://fa965b30-99b3-4b3e-81c2-337c495fec61@hk2.wlcf.lol:443?encryption=none&security=tls&sni=kk3.wlcf.lol&fp=randomized&type=ws&host=kk3.wlcf.lol&path=%2F%3Fed%3D2048#%E9%A6%99%E6%B8%AF
-vless://0345b890-06ba-4398-b35b-ba9a3c749ab8@id.wlcf.lol:443?encryption=none&security=tls&sni=ss.wlcf.lol&fp=randomized&type=ws&host=ss.wlcf.lol&path=%2F%3Fed%3D2048#%E5%8D%B0%E5%BA%A6
-vless://fafd7ebb-8801-4dfa-9657-24115b68d45a@kr.wlcf.lol:443?encryption=none&security=tls&sni=hg.wlcf.lol&fp=randomized&type=ws&host=hg.wlcf.lol&path=%2F%3Fed%3D2048#%E9%9F%A9%E5%9B%BD
-vless://b3a53e5b-419d-483d-b0eb-9587d7da1d35@us.wlcf.lol:443?encryption=none&security=tls&sni=u1.wlcf.lol&fp=randomized&type=ws&host=u1.wlcf.lol&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD
-vless://38927467-911b-4b7f-a5e7-fca2d7c5bbac@jp.wlcf.lol:443?encryption=none&security=tls&sni=rb1.wlcf.lol&fp=randomized&type=ws&host=rb1.wlcf.lol&path=%2F%3Fed%3D2048#%E6%97%A5%E6%9C%AC
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkdQVCIsDQogICJhZGQiOiAiMjMuMjI3LjM4LjYiLA0KICAicG9ydCI6ICIyMDg2IiwNCiAgImlkIjogIjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+sub://aHR0cHM6Ly9keS53bGNmLmxvbA#%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85
+vless://bm9uZToxNmRjYzRhOS0zZTZiLTRiMWQtYTBkOC00YTE4MmZmNDk3ODZAaGsxLndsY2YubG9sOjQ0Mw?remarks=%E9%A6%99%E6%B8%AF&obfsParam=kk2.wlcf.lol&path=/?ed=2048&obfs=websocket&tls=1&peer=kk2.wlcf.lol
+vless://bm9uZTpmYTk2NWIzMC05OWIzLTRiM2UtODFjMi0zMzdjNDk1ZmVjNjFAaGsyLndsY2YubG9sOjQ0Mw?remarks=%E9%A6%99%E6%B8%AF&obfsParam=kk3.wlcf.lol&path=/?ed=2048&obfs=websocket&tls=1&peer=kk3.wlcf.lol
+vless://bm9uZTowMzQ1Yjg5MC0wNmJhLTQzOTgtYjM1Yi1iYTlhM2M3NDlhYjhAaWQud2xjZi5sb2w6NDQz?remarks=%E5%8D%B0%E5%BA%A6&obfsParam=ss.wlcf.lol&path=/?ed=2048&obfs=websocket&tls=1&peer=ss.wlcf.lol
+vless://bm9uZTpiM2E1M2U1Yi00MTlkLTQ4M2QtYjBlYi05NTg3ZDdkYTFkMzVAdXMud2xjZi5sb2w6NDQz?remarks=%E7%BE%8E%E5%9B%BD&obfsParam=u1.wlcf.lol&path=/?ed=2048&obfs=websocket&tls=1&peer=u1.wlcf.lol
+vless://bm9uZTozODkyNzQ2Ny05MTFiLTRiN2YtYTVlNy1mY2EyZDdjNWJiYWNAanAud2xjZi5sb2w6NDQz?remarks=%E6%97%A5%E6%9C%AC&obfsParam=rb1.wlcf.lol&path=/?ed=2048&obfs=websocket&tls=1&peer=rb1.wlcf.lol
