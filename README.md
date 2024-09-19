@@ -1,10 +1,4 @@
-vless://dc0c4a96-3c59-4e49-8403-3e8254cdb0d0@hk.wlcf.lol:443?encryption=none&security=tls&sni=kk1.wlcf.lol&fp=randomized&type=ws&host=kk1.wlcf.lol&path=%2F%3Fed%3D2048#%E9%A6%99%E6%B8%AF
-vless://38927467-911b-4b7f-a5e7-fca2d7c5bbac@jp.wlcf.lol:443?encryption=none&security=tls&sni=rb1.wlcf.lol&fp=randomized&type=ws&host=rb1.wlcf.lol&path=%2F%3Fed%3D2048#%E6%97%A5%E6%9C%AC
-vless://f41afc19-93cb-406d-af1c-04e75221708c@198.144.183.24:443?encryption=none&security=tls&sni=warp.wlcf.lol&alpn=h3&fp=random&type=ws&host=warp.wlcf.lol&path=%2F%3Fed%3D2560#%E9%9F%A9%E5%9B%BD
-vless://f41afc19-93cb-406d-af1c-04e75221708c@185.87.150.54:443?encryption=none&security=tls&sni=warp.wlcf.lol&alpn=h3&fp=random&type=ws&host=warp.wlcf.lol&path=%2F%3Fed%3D2560#%E9%9F%A9%E5%9B%BD
-vless://f41afc19-93cb-406d-af1c-04e75221708c@[2606:4700:3036:0:aaf3:7bf1:6db4:b428]:443?encryption=none&security=tls&sni=warp.wlcf.lol&alpn=h3&fp=random&type=ws&host=warp.wlcf.lol&path=%2F%3Fed%3D2560#CMCC-IPV6
-vless://f41afc19-93cb-406d-af1c-04e75221708c@[2606:4700:3036:a71b:596:c4f1:b732:8f4c]:443?encryption=none&security=tls&sni=warp.wlcf.lol&alpn=h3&fp=random&type=ws&host=warp.wlcf.lol&path=%2F%3Fed%3D2560#CMCC-IPV6
-vless://f41afc19-93cb-406d-af1c-04e75221708c@[2606:4700:3036:a71b:596:e9e2:b29f:f9f4]:443?encryption=none&security=tls&sni=warp.wlcf.lol&alpn=h3&fp=random&type=ws&host=warp.wlcf.lol&path=%2F%3Fed%3D2560#CMCC-IPV6
-vless://f41afc19-93cb-406d-af1c-04e75221708c@[2606:4700:3036:55:946b:b103:ac82:42bc]:443?encryption=none&security=tls&sni=warp.wlcf.lol&alpn=h3&fp=random&type=ws&host=warp.wlcf.lol&path=%2F%3Fed%3D2560#CMCC-IPV6
-vless://f41afc19-93cb-406d-af1c-04e75221708c@[2606:4700:3036:a71b:596:c4f1:617c:42d5]:443?encryption=none&security=tls&sni=warp.wlcf.lol&alpn=h3&fp=random&type=ws&host=warp.wlcf.lol&path=%2F%3Fed%3D2560#CMCC-IPV6
-vless://f41afc19-93cb-406d-af1c-04e75221708c@[2606:4700:3036:0:1ae:2749:a581:e2e3]:443?encryption=none&security=tls&sni=warp.wlcf.lol&alpn=h3&fp=random&type=ws&host=warp.wlcf.lol&path=%2F%3Fed%3D2560#CMCC-IPV6
+vless://bm9uZTpkYzBjNGE5Ni0zYzU5LTRlNDktODQwMy0zZTgyNTRjZGIwZDBAaGsud2xjZi5sb2w6NDQz?remarks=%E9%A6%99%E6%B8%AF&obfsParam=kk1.wlcf.lol&path=/?ed=2048&obfs=websocket&tls=1&peer=kk1.wlcf.lol
+vless://bm9uZTozODkyNzQ2Ny05MTFiLTRiN2YtYTVlNy1mY2EyZDdjNWJiYWNAanAud2xjZi5sb2w6NDQz?remarks=%E6%97%A5%E6%9C%AC&obfsParam=rb1.wlcf.lol&path=/?ed=2048&obfs=websocket&tls=1&peer=rb1.wlcf.lol
+vless://bm9uZTpmNDFhZmMxOS05M2NiLTQwNmQtYWYxYy0wNGU3NTIyMTcwOGNAMTk4LjE0NC4xODMuMjQ6NDQz?remarks=%E9%9F%A9%E5%9B%BD&obfsParam=warp.wlcf.lol&path=/?ed=2560&obfs=websocket&tls=1&peer=warp.wlcf.lol&alpn=h3
+vless://bm9uZTpmNDFhZmMxOS05M2NiLTQwNmQtYWYxYy0wNGU3NTIyMTcwOGNAMTg1Ljg3LjE1MC41NDo0NDM?remarks=%E9%9F%A9%E5%9B%BD&obfsParam=warp.wlcf.lol&path=/?ed=2560&obfs=websocket&tls=1&peer=warp.wlcf.lol&alpn=h3
