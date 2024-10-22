@@ -1,4 +1,3 @@
-vless://dc0c4a96-3c59-4e49-8403-3e8254cdb0d0@cdn.wlcf.lol:443?encryption=none&security=tls&sni=hk.wlcf.lol&fp=randomized&type=ws&host=hk.wlcf.lol&path=%2F%3Fed%3D2048#%E9%A6%99%E6%B8%AF
 vless://f41afc19-93cb-406d-af1c-04e75221708c@162.159.153.169:443?encryption=none&security=tls&sni=warp.wlcf.lol&type=ws&host=warp.wlcf.lol&path=%2F%3Fed%3D2560#%E9%9F%A9%E5%9B%BD%E9%AB%98%E9%80%9F1
 vless://f41afc19-93cb-406d-af1c-04e75221708c@162.159.153.148:443?encryption=none&security=tls&sni=warp.wlcf.lol&type=ws&host=warp.wlcf.lol&path=%2F%3Fed%3D2560#%E9%9F%A9%E5%9B%BD%E9%AB%98%E9%80%9F2
 vless://f41afc19-93cb-406d-af1c-04e75221708c@162.159.153.225:443?encryption=none&security=tls&sni=warp.wlcf.lol&type=ws&host=warp.wlcf.lol&path=%2F%3Fed%3D2560#%E9%9F%A9%E5%9B%BD%E9%AB%98%E9%80%9F3
