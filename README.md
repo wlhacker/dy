@@ -1,3 +1,4 @@
+trojan://bpb-trojan@yz.wlcf.lol:443?security=tls&sni=qilindongtian.us.kg&alpn=h3&fp=randomized&type=ws&host=qilindongtian.us.kg&path=%2Ftr%3Fed%3D2560#%E9%9F%A9%E5%9B%BD
 vless://f41afc19-93cb-406d-af1c-04e75221708c@yz.wlcf.lol:443?encryption=none&security=tls&sni=warp.wlcf.lol&type=ws&host=warp.wlcf.lol&path=%2F%3Fed%3D2560#%E9%9F%A9%E5%9B%BD
 vless://dc0c4a96-3c59-4e49-8403-3e8254cdb0d0@yz.wlcf.lol:443?encryption=none&security=tls&sni=xg.wlcf.lol&fp=randomized&type=ws&host=xg.wlcf.lol&path=%2F%3Fed%3D2048#%E9%A6%99%E6%B8%AF
 vless://b3a53e5b-419d-483d-b0eb-9587d7da1d35@om.wlcf.lol:443?encryption=none&security=tls&sni=mg.wlcf.lol&fp=randomized&type=ws&host=mg.wlcf.lol&path=%2F%3Fed%3D2048#%E7%BE%8E%E5%9B%BD
