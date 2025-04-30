@@ -41,4 +41,12 @@ trojan://0d5b545a-bbc8-42f3-ae25-4c7ce0f4c61d@bgp-xdd.blue-bgp.xyz:44051?allowIn
 trojan://0d5b545a-bbc8-42f3-ae25-4c7ce0f4c61d@bgp-xdd.blue-bgp.xyz:44052?allowInsecure=1&peer=aliyun.com&tfo=1#%E7%BE%8E%E5%9B%BD2%7CBGP
 trojan://0d5b545a-bbc8-42f3-ae25-4c7ce0f4c61d@bgp-xdd.blue-bgp.xyz:44053?allowInsecure=1&peer=aliyun.com&tfo=1#%E7%BE%8E%E5%9B%BD3%7CBGP
 trojan://0d5b545a-bbc8-42f3-ae25-4c7ce0f4c61d@bgp-xdd.blue-bgp.xyz:44054?allowInsecure=1&peer=aliyun.com&tfo=1#%E7%BE%8E%E5%9B%BD4%7CBGP
-
+hysteria2://46681a90-dddb-4d7f-a85e-4120f849e57a@hk.sinqin.net:8080?fastopen=1#%E9%A6%99%E6%B8%AF
+hysteria2://46681a90-dddb-4d7f-a85e-4120f849e57a@us.sinqin.net:8080?fastopen=1#%E7%BE%8E%E5%9B%BD
+hysteria2://46681a90-dddb-4d7f-a85e-4120f849e57a@uk.sinqin.net:8080?fastopen=1#%E8%8B%B1%E5%9B%BD
+hysteria2://46681a90-dddb-4d7f-a85e-4120f849e57a@ca.sinqin.net:8080?fastopen=1#%E5%8A%A0%E6%8B%BF%E5%A4%A7
+hysteria2://46681a90-dddb-4d7f-a85e-4120f849e57a@de.sinqin.net:8080?fastopen=1#%E5%BE%B7%E5%9B%BD
+hysteria2://46681a90-dddb-4d7f-a85e-4120f849e57a@fr.sinqin.net:8080?fastopen=1#%E6%B3%95%E5%9B%BD
+hysteria2://46681a90-dddb-4d7f-a85e-4120f849e57a@ie.sinqin.net:8080?fastopen=1#%E7%88%B1%E5%B0%94%E5%85%B0
+hysteria2://46681a90-dddb-4d7f-a85e-4120f849e57a@se.sinqin.net:8080?fastopen=1#%E7%91%9E%E5%85%B8
+hysteria2://46681a90-dddb-4d7f-a85e-4120f849e57a@kr.sinqin.net:8080?fastopen=1#%E9%9F%A9%E5%9B%BD
