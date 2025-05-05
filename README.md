@@ -1,5 +1,8 @@
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@219.76.13.180:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D219.76.13.180#HK%E2%91%A0
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@103.224.172.52:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D103.224.172.52#HK%E2%91%A1
+vless://93f0761d-4393-4b43-a523-e812fa0b7e83@219.76.13.183:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D219.76.13.183#HK%E2%91%A1
+vless://93f0761d-4393-4b43-a523-e812fa0b7e83@219.76.13.183:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D103.224.172.52#HK%E2%91%A2
+vless://93f0761d-4393-4b43-a523-e812fa0b7e83@219.76.13.183:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3Dcdn-b100.xn--b6gac.eu.org#%E5%A4%9A%E7%BA%BF%E2%91%A0
+vless://93f0761d-4393-4b43-a523-e812fa0b7e83@219.76.13.183:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3Dbestproxy.onecf.eu.org#%E5%A4%9A%E7%BA%BF%E2%91%A1
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@35.201.203.106:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D35.201.203.106#%E5%8F%B0%E6%B9%BE%E2%91%A0
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@154.204.183.230:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D154.204.183.230#XJP%E2%91%A0
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@51.79.254.182:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D51.79.254.182#XJP%E2%91%A1
@@ -26,6 +29,3 @@ hysteria2://46681a90-dddb-4d7f-a85e-4120f849e57a@fr.sinqin.net:8080/?insecure=0#
 hysteria2://46681a90-dddb-4d7f-a85e-4120f849e57a@ie.sinqin.net:8080/?insecure=0#%E7%88%B1%E5%B0%94%E5%85%B0
 hysteria2://46681a90-dddb-4d7f-a85e-4120f849e57a@se.sinqin.net:8080/?insecure=0#%E7%91%9E%E5%85%B8
 hysteria2://46681a90-dddb-4d7f-a85e-4120f849e57a@kr.sinqin.net:8080/?insecure=0#%E9%9F%A9%E5%9B%BD
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@104.18.92.234:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3Dsg.onecf.eu.org#%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%9A%E7%BA%BF
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@104.19.151.94:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3Dkr.onecf.eu.org#%E9%9F%A9%E5%9B%BD%E5%A4%9A%E7%BA%BF
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@104.19.132.225:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3Dus.onecf.eu.org#%E7%BE%8E%E5%9B%BD%E5%A4%9A%E7%BA%BF
