@@ -1,9 +1,6 @@
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@198.41.220.0:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D82.152.163.227#%E9%A6%99%E6%B8%AF
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@198.41.220.0:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D18.167.172.112#%E9%A6%99%E6%B8%AF1
+vless://93f0761d-4393-4b43-a523-e812fa0b7e83@18.167.172.112:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D18.167.172.112#%E9%A6%99%E6%B8%AF1
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@49.0.233.29:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D49.0.233.29#%E9%A6%99%E6%B8%AF2
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@47.238.71.46:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D47.238.71.46#%E9%A6%99%E6%B8%AF3
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@194.156.99.186:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D194.156.99.186#%E9%A6%99%E6%B8%AF4
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@207.46.138.8:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D207.46.138.8#%E9%A6%99%E6%B8%AF5
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@103.137.63.3:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D103.137.63.3#%E5%8F%B0%E6%B9%BE
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@61.111.250.34:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D61.111.250.34#%E9%9F%A9%E5%9B%BD
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@146.56.136.76:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D146.56.136.76#%E6%96%B0%E5%8A%A0%E5%9D%A1
