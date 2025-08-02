@@ -1,7 +1,4 @@
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@185.241.43.188:443?encryption=none&security=tls&sni=cf.cfvip.lol&fp=randomized&type=ws&host=cf.cfvip.lol&path=%2Fpyip%3D185.241.43.188#%E9%A6%99%E6%B8%AF1
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@202.85.53.74:443?encryption=none&security=tls&sni=cf.wlcf.lol&fp=randomized&type=ws&host=cf.wlcf.lol&path=%2Fpyip%3D202.85.53.74#%E9%A6%99%E6%B8%AF2
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@103.234.53.238:443?encryption=none&security=tls&sni=cf.cfvip.lol&fp=randomized&type=ws&host=cf.cfvip.lol&path=%2Fpyip%3D103.234.53.238#%E9%A6%99%E6%B8%AF3
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@47.238.71.46:443?encryption=none&security=tls&sni=cf.cfvip.lol&fp=randomized&type=ws&host=cf.cfvip.lol&path=%2Fpyip%3D47.238.71.46#%E9%A6%99%E6%B8%AF4
+vless://93f0761d-4393-4b43-a523-e812fa0b7e83@103.234.53.238:443?encryption=none&security=tls&sni=cf.cfvip.lol&fp=randomized&type=ws&host=cf.cfvip.lol&path=%2Fpyip%3D103.234.53.238#%E9%A6%99%E6%B8%AF
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@219.76.13.183:443?encryption=none&security=tls&sni=cf.cfvip.lol&fp=randomized&type=ws&host=cf.cfvip.lol&path=%2Fpyip%3D219.76.13.183#%E9%A6%99%E6%B8%AF5
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@194.156.99.186:443?encryption=none&security=tls&sni=cf.cfvip.lol&fp=randomized&type=ws&host=cf.cfvip.lol&path=%2Fpyip%3D194.156.99.186#%E9%A6%99%E6%B8%AF6
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@23.99.123.12:443?encryption=none&security=tls&sni=cf.cfvip.lol&fp=randomized&type=ws&host=cf.cfvip.lol&path=%2Fpyip%3D23.99.123.12#%E9%A6%99%E6%B8%AF7
